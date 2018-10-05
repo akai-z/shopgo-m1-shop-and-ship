@@ -1,4 +1,4 @@
-# ShopGo Shop and Ship #
+# ShopGo Shop and Ship `[UNMAINTAINED]` #
 
 ### About Repository ###
 
